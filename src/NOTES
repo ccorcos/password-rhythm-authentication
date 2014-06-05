@@ -1,0 +1,2 @@
+pyi-makespec --onefile --hidden-import=scipy.special._ufuncs_cxx password.py 
+pyi-build password.spec

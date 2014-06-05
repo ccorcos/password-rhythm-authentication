@@ -1,0 +1,6 @@
+**.pyc
+password/*
+**.aux
+**.log
+**.toc
+**.DS_Store
